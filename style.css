@@ -1,0 +1,62 @@
+.html {
+  background-color: rgb(244, 238, 238);
+}
+
+.header {
+  text-align: left;
+  color: rgb(214, 198, 27);
+  font-size: 1.5rem;
+}
+
+.header:hover {
+  color: rgb(205, 117, 30);
+}
+
+.header-1 {
+  text-align: center;
+}
+
+ul {
+  display: flex;
+  gap: 20px 20px;
+}
+
+li {
+  list-style: none;
+}
+
+img {
+  width: 400px;
+  height: 350px;
+  border-radius: 6px;
+}
+
+.inventory {
+  text-align: center;
+}
+
+.auta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2px;
+}
+
+.inventory a {
+  text-decoration: none;
+  color: black;
+  font-size: 1.5rem;
+}
+
+.inventory a:hover {
+  color: rgb(61, 115, 133);
+}
+
+.href {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
+.href:hover {
+  color: rgb(223, 161, 18);
+}
