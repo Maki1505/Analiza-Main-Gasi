@@ -8,6 +8,9 @@ body,h1,p,a {
     font-family: "Open Sans";
 }
 
+.cijena:hover {
+    color: rgb(4, 82, 6);
+}
 
 .tabela {
     text-align: center;
@@ -46,4 +49,15 @@ footer img {
     height: 100%;
     object-fit: cover;
     border-radius: 6px;
+}
+
+.beze:hover {
+     color: rgb(4, 82, 6);
+}
+
+.lova {
+    font-style: bold;
+    color: black;
+    font-style: italic;
+    font-weight: 600;
 }
