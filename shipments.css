@@ -51,3 +51,15 @@ hr {
 .body {
     background-color: antiquewhite;
 }
+
+.user-exp section p {
+    text-align: center;
+}
+
+.user-exp section figcaption {
+    text-align: center;
+}
+
+.user-exp {
+    margin-top: 4rem;
+}
